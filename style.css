@@ -1,0 +1,13 @@
+div {
+    width: 240px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: lightblue;
+    border-radius: 8px;
+    border-color: blue;
+}
